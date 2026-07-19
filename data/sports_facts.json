@@ -1,0 +1,54 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "The first official cricket Test match was played in 1877 between Australia and England at the Melbourne Cricket Ground (MCG). Australia won by 45 runs."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "In 2010, Sachin Tendulkar became the first male cricketer to score a double century (200 runs) in a One Day International (ODI) match, achieving this against South Africa in Gwalior."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The inaugural ICC Men's T20 World Cup was held in 2007 in South Africa. India won the tournament by defeating Pakistan by 5 runs in a thrilling final at Johannesburg."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "The Thomas Cup, established in 1948, is the premier international men's team badminton championship. India won its historic first title in 2022 by defeating Indonesia 3-0."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "Prakash Padukone became the first Indian to win the prestigious All England Open Badminton Championships in 1980, defeating Liem Swie King of Indonesia in the final."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup was first held in 1930. Uruguay hosted and won the tournament, defeating Argentina 4-2 in the final match in Montevideo."
+  },
+  {
+    "sport": "Football",
+    "fact": "Brazil holds the record for the most FIFA World Cup titles, winning the tournament five times in the years 1958, 1962, 1970, 1994, and 2002."
+  },
+  {
+    "sport": "Football",
+    "fact": "The UEFA Champions League, originally known as the European Champion Clubs' Cup, was introduced in 1955. Real Madrid won the first five consecutive tournaments."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The National Basketball Association (NBA) was founded in 1946 as the Basketball Association of America (BAA) before merging with the National Basketball League (NBL) in 1949."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "Wilt Chamberlain holds the NBA single-game scoring record, scoring 100 points for the Philadelphia Warriors in a victory against the New York Knicks on March 2, 1692."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "The Wimbledon Championships, founded in 1877, is the oldest tennis tournament in the world. It is the only Grand Slam event currently played on traditional grass courts."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "In 2023, Novak Djokovic broke the men's all-time record by winning his 24th Grand Slam singles title at the US Open, surpassing Rafael Nadal's tally of 22."
+  },
+  {
+    "sport": "Athletics",
+    "fact": "Usain Bolt of Jamaica set the current men's 100-meter world record time of 9.58 seconds at the World Athletics Championships in Berlin on August 16, 2009."
+  }
+]
